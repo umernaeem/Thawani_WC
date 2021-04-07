@@ -30,6 +30,6 @@ To install this plugin please follow the following:
 
 == Changelog ==
 
-= 1.0.1 =
+= 1.0 =
 
 Initial release
