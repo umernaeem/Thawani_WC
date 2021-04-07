@@ -1,4 +1,4 @@
-=== Thawani Payment Gateway for Woocommerce (Oman Users Only) ===
+# === Thawani Payment Gateway for Woocommerce (Oman Users Only) ===
 
 Contributors: Umer Naeem
 
@@ -14,13 +14,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 
-== Description ==
+# == Description ==
 
 Woocommerce Thawani payment gateway for online payments only for Oman.
 
 It currently support OMANI RIYAL
 
-== Installation ==
+# == Installation ==
 
 To install this plugin please follow the following:
 
@@ -28,7 +28,7 @@ To install this plugin please follow the following:
 
 2. Configure the Thawani Credentials.
 
-== Changelog ==
+# == Changelog ==
 
 = 1.0 =
 
